@@ -11,11 +11,11 @@
 ## Getting Started
 * prepare dataset
 * train:
-   cd src 
-   python train.py
-* test
-   cd src 
-   python test.py --pre_train [path to pretrained model]
-* Evaluating
-   cd src 
-   python eval.py --real_dir [ground truths] --fake_dir [inpainting results] --metric mae psnr ssim fid
+   * cd src 
+   * python train.py
+* test:
+   * cd src 
+   * python test.py --pre_train [path to pretrained model]
+* Evaluating:
+   * cd src 
+   * python eval.py --real_dir [ground truths] --fake_dir [inpainting results] --metric mae psnr ssim fid
