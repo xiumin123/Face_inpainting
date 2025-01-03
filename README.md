@@ -1,4 +1,10 @@
-## Prerequisites 
+##  prepare datasets
+
+ * 1.Download public image datasets or your own image datasets and download the  public masks.
+ * 2.Split your dataset into training set, test set and validation set according to the ratio of 8:1:1.
+ * 3.Specify the path to training data by --dir_image and --dir_mask.
+  
+## Requirements
 * python 3.8.8
 * [pytorch](https://pytorch.org/) (tested on Release 1.8.1)
 
