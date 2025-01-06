@@ -19,8 +19,10 @@
 
 ## Getting Started
 * download pretrained model,place this model under the floder src/model/model_pr
+  
   https://pan.baidu.com/s/1pHgGfYht8vKq1tJyEpE6Iw 提取码: 7r9i 
 * train:
+   * Before you train the model, you can choose the model variants in the "src/model" folder. You can modify the necessary parameters in "src/utils/options.py".  
    * cd src 
    * python train.py
 * test:
