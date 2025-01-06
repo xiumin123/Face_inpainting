@@ -27,3 +27,6 @@
 * Evaluating:
    * cd src 
    * python eval.py --real_dir [ground truths] --fake_dir [inpainting results] --metric mae psnr ssim fid
+
+## Acknowledgement
+  Our models were trained and tested on an RXT3090Ti GPU and Intel(R) Xeon(R) Silver 4214 CPU @ 2.20GHz.All the experimental data in this thesis were reproduced by myself on the server.Further more, our experiment is developed relying on [AOT-GAN](https://github.com/researchmm/AOT-GAN-for-Inpainting) and other projects. Thanks for these great projects.
