@@ -1,5 +1,5 @@
 ## Semantic-Guided Face Inpainting with Subspace Pyramid Aggregation
-
+![image](https://github.com/xiumin123/Face_inpainting/blob/main/data/%E5%9B%BE%E7%89%871.png)
 ##  prepare datasets
 
  * Download public image datasets or your own image datasets and download the  public masks.
