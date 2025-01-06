@@ -1,5 +1,6 @@
 ## Semantic-Guided Face Inpainting with Subspace Pyramid Aggregation
 ![image](https://github.com/xiumin123/Face_inpainting/blob/main/data/%E5%9B%BE%E7%89%871.png)
+
 ##  prepare datasets
 
  * Download public image datasets or your own image datasets and download the  public masks.
@@ -17,7 +18,8 @@
 * conda activate inpainting
 
 ## Getting Started
-* prepare dataset
+* download pretrained model,place this model under the floder src/model/model_pr
+  https://pan.baidu.com/s/1pHgGfYht8vKq1tJyEpE6Iw 提取码: 7r9i 
 * train:
    * cd src 
    * python train.py
